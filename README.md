@@ -15,9 +15,9 @@ A list of the web resources that I find helpful
 - [coolors.co](https://coolors.co/)
 
 ### Animation
--[Gradient animation js](https://sarcadass.github.io/granim.js/)
+- [Gradient animation js](https://sarcadass.github.io/granim.js/)
 
 
 ## Other Curated Lists
--[Design Valley](https://www.designvalley.club/)
--[Web Dev Resources](https://webdevresources.info/css)
+- [Design Valley](https://www.designvalley.club/)
+- [Web Dev Resources](https://webdevresources.info/css)

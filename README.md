@@ -21,3 +21,7 @@ A list of the web resources that I find helpful
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)
 - [Web Dev Resources](https://webdevresources.info/css)
+
+
+## Windows Terminal
+- [Windows Terminal Thems](https://atomcorp.github.io/themes/)

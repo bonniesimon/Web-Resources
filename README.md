@@ -24,4 +24,4 @@ A list of the web resources that I find helpful
 
 
 ## Windows Terminal
-- [Windows Terminal Thems](https://atomcorp.github.io/themes/)
+- [Windows Terminal Themes](https://atomcorp.github.io/themes/)

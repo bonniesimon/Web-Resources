@@ -17,6 +17,9 @@ A list of the web resources that I find helpful
 ### Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)
 
+### Images
+- [Crop Images](https://croppola.com/)
+
 
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)

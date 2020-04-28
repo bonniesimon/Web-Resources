@@ -19,6 +19,7 @@ A list of the web resources that I find helpful
 
 ### Images
 - [Crop Images](https://croppola.com/)
+- [Hero Generator](https://hero-generator.netlify.app/)
 
 
 ## Other Curated Lists

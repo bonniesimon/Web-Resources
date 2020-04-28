@@ -28,3 +28,7 @@ A list of the web resources that I find helpful
 
 ## Windows Terminal
 - [Windows Terminal Themes](https://atomcorp.github.io/themes/)
+
+## Tools
+
+- [Micro- colloborative tool to create work flows](https://miro.com/)

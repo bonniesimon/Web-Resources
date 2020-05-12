@@ -10,6 +10,7 @@ A list of the web resources that I find helpful
 - [GetWaves.io](https://getwaves.io/)
 - [Duotone Generator](https://cssduotone.com/)
 - [Undraw Illustration](https://undraw.co/illustrations)
+- [Box Shadows](https://boxshadows.com/)
 
 ### Colors
 - [coolors.co](https://coolors.co/)

@@ -17,6 +17,7 @@ A list of the web resources that I find helpful
 
 ### Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)
+- [Button Animations](https://emilkowalski.github.io/css-effects-snippets/)
 
 ### Images
 - [Crop Images](https://croppola.com/)
@@ -26,6 +27,7 @@ A list of the web resources that I find helpful
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)
 - [Web Dev Resources](https://webdevresources.info/css)
+- [50+ developer/designer resources](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b#illustrations)
 
 
 ## Windows Terminal

@@ -23,6 +23,9 @@ A list of the web resources that I find helpful
 - [Crop Images](https://croppola.com/)
 - [Hero Generator](https://hero-generator.netlify.app/)
 
+### Meta Tags
+- [metatags.io](https://metatags.io/)
+
 
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)

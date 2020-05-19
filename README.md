@@ -31,6 +31,7 @@ A list of the web resources that I find helpful
 - [Design Valley](https://www.designvalley.club/)
 - [Web Dev Resources](https://webdevresources.info/css)
 - [50+ developer/designer resources](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b#illustrations)
+- [100 developer resources](https://dev.to/vaibhavkhulbe/100-websites-to-bookmark-for-your-next-dev-web-project-2ece)
 
 
 ## Windows Terminal

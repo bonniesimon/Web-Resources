@@ -11,6 +11,7 @@ A list of the web resources that I find helpful
 - [Duotone Generator](https://cssduotone.com/)
 - [Undraw Illustration](https://undraw.co/illustrations)
 - [Box Shadows](https://boxshadows.com/)
+- [Animated Backgrounds](https://wweb.dev/resources/animated-css-background-generator)
 
 ### Colors
 - [coolors.co](https://coolors.co/)
@@ -18,6 +19,7 @@ A list of the web resources that I find helpful
 ### Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)
 - [Button Animations](https://emilkowalski.github.io/css-effects-snippets/)
+- [Button Animations](https://www.csswand.dev/)
 
 ### Images
 - [Crop Images](https://croppola.com/)

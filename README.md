@@ -38,6 +38,7 @@ A list of the web resources that I find helpful
 
 ## Windows Terminal
 - [Windows Terminal Themes](https://atomcorp.github.io/themes/)
+- [Thems](https://github.com/rjcarneiro/windows-terminals)
 
 ## Tools
 

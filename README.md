@@ -24,6 +24,8 @@ A list of the web resources that I find helpful
 ### Images
 - [Crop Images](https://croppola.com/)
 - [Hero Generator](https://hero-generator.netlify.app/)
+- [Compressor](https://compressor.io/)
+
 
 ### Meta Tags
 - [metatags.io](https://metatags.io/)
@@ -44,3 +46,8 @@ A list of the web resources that I find helpful
 ## Tools
 
 - [Micro- colloborative tool to create work flows](https://miro.com/)
+- [Db Diagrams](https://dbdiagram.io/home/)
+
+## Performance
+
+- [Siteliner](https://www.siteliner.com)

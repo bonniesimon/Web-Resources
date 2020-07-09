@@ -30,6 +30,11 @@ A list of the web resources that I find helpful
 
 ### Meta Tags
 - [metatags.io](https://metatags.io/)
+- [favicon.io](https://favicon.io/)
+
+### Responsive
+
+- [responsivator](http://www.responsinator.com/)
 
 
 ## Other Curated Lists
@@ -52,6 +57,7 @@ A list of the web resources that I find helpful
 ## Performance
 
 - [Siteliner](https://www.siteliner.com)
+- [pwabuilder](https://www.pwabuilder.com)
 
 ## Git
 

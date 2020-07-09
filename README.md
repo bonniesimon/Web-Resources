@@ -52,3 +52,7 @@ A list of the web resources that I find helpful
 ## Performance
 
 - [Siteliner](https://www.siteliner.com)
+
+## Git
+
+- [ohshitgit: solution to many common git problems](https://ohshitgit.com/)

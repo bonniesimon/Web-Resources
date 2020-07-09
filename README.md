@@ -25,6 +25,7 @@ A list of the web resources that I find helpful
 - [Crop Images](https://croppola.com/)
 - [Hero Generator](https://hero-generator.netlify.app/)
 - [Compressor](https://compressor.io/)
+- [Add filters, blur, etc](https://www.cssfilters.co/)
 
 
 ### Meta Tags

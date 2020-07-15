@@ -15,6 +15,7 @@ A list of the web resources that I find helpful
 
 ### Colors
 - [coolors.co](https://coolors.co/)
+- [happyhues.co](https://www.happyhues.co/)
 
 ### Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)

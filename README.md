@@ -12,6 +12,7 @@ A list of the web resources that I find helpful
 - [Undraw Illustration](https://undraw.co/illustrations)
 - [Box Shadows](https://boxshadows.com/)
 - [Animated Backgrounds](https://wweb.dev/resources/animated-css-background-generator)
+- [Grabient](https://www.grabient.com/)
 
 ### Colors
 - [coolors.co](https://coolors.co/)

@@ -37,6 +37,7 @@ A list of the web resources that I find helpful
 ### Responsive
 
 - [responsivator](http://www.responsinator.com/)
+- [Responsively](https://responsively.app/)
 
 
 ## Other Curated Lists

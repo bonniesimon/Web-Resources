@@ -39,6 +39,10 @@ A list of the web resources that I find helpful
 - [responsivator](http://www.responsinator.com/)
 - [Responsively](https://responsively.app/)
 
+### Layout
+
+- [CSS Layout code snippets](https://csslayout.io/patterns)
+
 
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)

@@ -50,6 +50,7 @@ A list of the web resources that I find helpful
 - [50+ developer/designer resources](https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b#illustrations)
 - [100 developer resources](https://dev.to/vaibhavkhulbe/100-websites-to-bookmark-for-your-next-dev-web-project-2ece)
 - [List of items for non artistic people](https://nodesign.dev/)
+- [Resources for developer designer engineer](https://dev.to/hasone/unlimited-resources-for-developer-designer-engineer-4b1n#online-design-tools)
 
 
 ## Windows Terminal

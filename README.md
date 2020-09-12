@@ -4,7 +4,8 @@ A list of the web resources that I find helpful
 
 ## CSS / Designing
 
-
+### Framework
+- [water.css](https://github.com/kognise/water.css)
 
 ### Background
 - [GetWaves.io](https://getwaves.io/)

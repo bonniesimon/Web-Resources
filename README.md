@@ -3,6 +3,7 @@ A list of the web resources that I find helpful
 
 
 ## CSS / Designing
+- [Css code snippets for various components - navnav.co](https://navnav.co)
 
 ### Framework
 - [water.css](https://github.com/kognise/water.css)

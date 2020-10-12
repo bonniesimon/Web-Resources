@@ -31,6 +31,9 @@ A list of the web resources that I find helpful
 - [Compressor](https://compressor.io/)
 - [Add filters, blur, etc](https://www.cssfilters.co/)
 
+### Icons
+- [Boxicons](https://boxicons.com/)
+
 
 ### Meta Tags
 - [metatags.io](https://metatags.io/)

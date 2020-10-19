@@ -39,6 +39,7 @@ A list of the web resources that I find helpful
 ### Meta Tags
 - [metatags.io](https://metatags.io/)
 - [favicon.io](https://favicon.io/)
+- [automated link previews](https://www.mugshotbot.com/)
 
 ### Responsive
 )

@@ -42,7 +42,6 @@ A list of the web resources that I find helpful
 - [automated link previews](https://www.mugshotbot.com/)
 
 ### Responsive
-)
 - [responsivator](http://www.responsinator.com/)
 - [Responsively](https://responsively.app/)
 

@@ -31,6 +31,7 @@ A list of the web resources that I find helpful
 - [Hero Generator](https://hero-generator.netlify.app/)
 - [Compressor](https://compressor.io/)
 - [Add filters, blur, etc](https://www.cssfilters.co/)
+- [Image Compression by Google](https://squoosh.app/)
 
 ### Icons
 - [Boxicons](https://boxicons.com/)

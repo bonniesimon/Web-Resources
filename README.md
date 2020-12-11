@@ -26,6 +26,7 @@ A list of the web resources that I find helpful
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)
 - [Button Animations](https://emilkowalski.github.io/css-effects-snippets/)
 - [Button Animations](https://www.csswand.dev/)
+- [Animatopy - CSS animation code snippets](https://sarthology.github.io/Animatopy/)
 
 ### Images
 - [Crop Images](https://croppola.com/)

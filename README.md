@@ -67,6 +67,8 @@ A list of the web resources that I find helpful
 ## Windows Terminal
 - [Windows Terminal Themes](https://atomcorp.github.io/themes/)
 - [Thems](https://github.com/rjcarneiro/windows-terminals)
+- [terminalsplash](https://terminalsplash.com/)
+- [Customise terminal - terminal.sexy](https://terminal.sexy/)
 
 ## Tools
 

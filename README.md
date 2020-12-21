@@ -5,6 +5,7 @@ A list of the web resources that I find helpful
 ## CSS / Designing
 - [Css code snippets for various components - navnav.co](https://navnav.co)
 - [CSS webcomponents](https://csslab.app/)
+- [Code snippets - freefrontend](https://freefrontend.com/)
 
 ### Framework
 - [water.css](https://github.com/kognise/water.css)

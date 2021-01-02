@@ -31,6 +31,7 @@ A list of the web resources that I find helpful
 - [Button Animations](https://emilkowalski.github.io/css-effects-snippets/)
 - [Button Animations](https://www.csswand.dev/)
 - [Animatopy - CSS animation code snippets](https://sarthology.github.io/Animatopy/)
+- [Icon animations](https://bitshadow.github.io/iconate/)
 
 ### Images
 - [Crop Images](https://croppola.com/)

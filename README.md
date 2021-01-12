@@ -20,6 +20,7 @@ A list of the web resources that I find helpful
 - [Animated Backgrounds](https://wweb.dev/resources/animated-css-background-generator)
 - [Grabient](https://www.grabient.com/)
 - [Gradient Animation Generator](https://www.gradient-animator.com/)
+- [svg bg - bgjar](https://bgjar.com/)
 
 ### Colors
 - [coolors.co](https://coolors.co/)

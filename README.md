@@ -34,6 +34,8 @@ A list of the web resources that I find helpful
 - [Button Animations](https://www.csswand.dev/)
 - [Animatopy - CSS animation code snippets](https://sarthology.github.io/Animatopy/)
 - [Icon animations](https://bitshadow.github.io/iconate/)
+- [Cool Text Animations](https://tobiasahlin.com/moving-letters/)
+- [Loader Animations](https://tobiasahlin.com/spinkit/)
 
 ### Images
 - [Crop Images](https://croppola.com/)

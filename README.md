@@ -95,3 +95,7 @@ A list of the web resources that I find helpful
 ## Git
 
 - [ohshitgit: solution to many common git problems](https://ohshitgit.com/)
+
+## Javascript
+
+- [java5cript - Resoruce pool for js](https://www.java5cript.com/)

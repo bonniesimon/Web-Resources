@@ -27,6 +27,7 @@ A list of the web resources that I find helpful
 - [happyhues.co](https://www.happyhues.co/)
 - [muzlicolor](https://colors.muz.li/)
 - [Palettes with 60-30-10 split - colors.lol](https://colors.lol/)
+- [colormind-AI generated colors](http://colormind.io/)
 
 ### Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)

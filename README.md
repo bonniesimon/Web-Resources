@@ -96,6 +96,7 @@ A list of the web resources that I find helpful
 ## Git
 
 - [ohshitgit: solution to many common git problems](https://ohshitgit.com/)
+- [gitignore.io - .gitignore files for every project](https://www.toptal.com/developers/gitignore)
 
 ## Javascript
 

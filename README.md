@@ -40,6 +40,7 @@ A list of the web resources that I find helpful
 - [Icon animations](https://bitshadow.github.io/iconate/)
 - [Cool Text Animations](https://tobiasahlin.com/moving-letters/)
 - [Loader Animations](https://tobiasahlin.com/spinkit/)
+- [Web Animations - Awesome bg animations](https://github.com/web-animations/web-animations-js)
 
 ### Images
 - [Crop Images](https://croppola.com/)

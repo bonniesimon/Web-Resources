@@ -22,6 +22,9 @@ A list of the web resources that I find helpful
 - [Gradient Animation Generator](https://www.gradient-animator.com/)
 - [svg bg - bgjar](https://bgjar.com/)
 
+### Shape and Size
+- [Fance Border Generator](https://9elements.github.io/fancy-border-radius/full-control.html)
+
 ### Colors
 - [coolors.co](https://coolors.co/)
 - [happyhues.co](https://www.happyhues.co/)

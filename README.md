@@ -52,6 +52,9 @@ A list of the web resources that I find helpful
 ### Icons
 - [Boxicons](https://boxicons.com/)
 
+### Utilities
+- [Normalize.css - normalizes all elements](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+
 
 ### Meta Tags
 - [metatags.io](https://metatags.io/)

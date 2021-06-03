@@ -31,6 +31,7 @@ A list of the web resources that I find helpful
 - [muzlicolor](https://colors.muz.li/)
 - [Palettes with 60-30-10 split - colors.lol](https://colors.lol/)
 - [colormind-AI generated colors](http://colormind.io/)
+- [GradientKing - (made by a mallu)](https://gradient-king.vercel.app/)
 
 ### Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)

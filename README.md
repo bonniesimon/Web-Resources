@@ -42,6 +42,7 @@ A list of the web resources that I find helpful
 - [Cool Text Animations](https://tobiasahlin.com/moving-letters/)
 - [Loader Animations](https://tobiasahlin.com/spinkit/)
 - [Web Animations - Awesome bg animations](https://github.com/web-animations/web-animations-js)
+- [Full page Flicking animations](https://github.com/naver/egjs-flicking)
 
 ### Images
 - [Crop Images](https://croppola.com/)

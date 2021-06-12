@@ -74,6 +74,10 @@ A list of the web resources that I find helpful
 ### Wireframe
 - [Generate wireframes](https://octopus.do/)
 
+## React
+
+### Libraries
+- [React Alice Carousal](https://github.com/maxmarinich/react-alice-carousel)
 
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)

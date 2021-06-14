@@ -78,6 +78,7 @@ A list of the web resources that I find helpful
 
 ### Libraries
 - [React Alice Carousal](https://github.com/maxmarinich/react-alice-carousel)
+- [React Menu](https://react-popup.elazizi.com/react-menu)
 
 ## Other Curated Lists
 - [Design Valley](https://www.designvalley.club/)

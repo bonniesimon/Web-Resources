@@ -53,6 +53,7 @@ A list of the web resources that I find helpful
 
 ### Icons
 - [Boxicons](https://boxicons.com/)
+- [css.gg - Get css, svg, png, etc for icons](https://css.gg/)
 
 ### Utilities
 - [Normalize.css - normalizes all elements](https://github.com/necolas/normalize.css/blob/master/normalize.css)

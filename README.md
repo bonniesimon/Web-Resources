@@ -54,7 +54,7 @@ A list of the web resources that I find helpful
 ### Icons
 - [Boxicons](https://boxicons.com/)
 - [css.gg - Get css, svg, png, etc for icons](https://css.gg/)
-- [Heroicons - copy as JSX or copy as SVG feature](https://heroicons.dev/)
+- [Heroicons - copy as JSX or copy as SVG feature with tailwind styles](https://heroicons.dev/)
 
 ### Utilities
 - [Normalize.css - normalizes all elements](https://github.com/necolas/normalize.css/blob/master/normalize.css)

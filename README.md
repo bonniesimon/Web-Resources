@@ -21,6 +21,7 @@ A list of the web resources that I find helpful
 - [Grabient](https://www.grabient.com/)
 - [Gradient Animation Generator](https://www.gradient-animator.com/)
 - [svg bg - bgjar](https://bgjar.com/)
+- [Glassmorphism generator](https://ui.glass/generator/)
 
 ### Shape and Size
 - [Fance Border Generator](https://9elements.github.io/fancy-border-radius/full-control.html)

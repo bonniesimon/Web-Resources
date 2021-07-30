@@ -8,6 +8,7 @@ A list of the web resources that I find helpful
 - [Code snippets - freefrontend](https://freefrontend.com/)
 - [Code snippets for css components and layouts](https://csslayout.io/)
 - [Css values](https://cssvalues.com)
+- [DaisyUI - Tailwind CSS Components](https://daisyui.com/)
 
 ### Framework
 - [water.css](https://github.com/kognise/water.css)

@@ -8,7 +8,12 @@ A list of the web resources that I find helpful
 - [Code snippets - freefrontend](https://freefrontend.com/)
 - [Code snippets for css components and layouts](https://csslayout.io/)
 - [Css values](https://cssvalues.com)
+
+
+### Tailwind
 - [DaisyUI - Tailwind CSS Components](https://daisyui.com/)
+- [wickedblocks - UI components for tailwind](https://blocks.wickedtemplates.com/)
+- [Kometa UI components for Tailwind](https://kitwind.io/products/kometa/components)
 
 ### Framework
 - [water.css](https://github.com/kognise/water.css)

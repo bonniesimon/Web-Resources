@@ -113,6 +113,8 @@ A list of the web resources that I find helpful
 - [Db Diagrams](https://dbdiagram.io/home/)
 - [Handle from submissions - kwes.io](https://kwes.io/)
 - [readme.so - create better README.md file](https://readme.so/)
+- [Tree directory stucture](https://tree.nathanfriend.io/?s=(%27options!(%27fancy!true~fullPath!false~trailingSlash!true~rootDot!false)~*(%27*%27%27)~version!%271%27)*source!%01*)
+- [gitignore.io - gitignore templates](https://www.toptal.com/developers/gitignore)
 
 ## Performance
 

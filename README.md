@@ -29,6 +29,7 @@ A list of the web resources that I find helpful
 - [Gradient Animation Generator](https://www.gradient-animator.com/)
 - [svg bg - bgjar](https://bgjar.com/)
 - [Glassmorphism generator](https://ui.glass/generator/)
+- [Haikey SVG/PNG background generator - Really good for landing pages](https://haikei.app/generators/)
 
 ### Shape and Size
 - [Fance Border Generator](https://9elements.github.io/fancy-border-radius/full-control.html)

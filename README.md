@@ -3,6 +3,7 @@ A list of the web resources that I find helpful
 
 # Contents
 - [CSS/Designing](#css-/-designing)
+- [React](#react)
 
 
 # CSS / Designing

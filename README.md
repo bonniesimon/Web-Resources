@@ -1,9 +1,10 @@
 # Web-Resources
 A list of the web resources that I find helpful
 
-# Contents
-- [CSS/Designing](#css-/-designing)
-- [React](#react)
+| Contents                          |
+|-----------------------------------|
+| [CSS/Designing](#css-/-designing) |
+| [React](#react)                   |
 
 
 # CSS / Designing

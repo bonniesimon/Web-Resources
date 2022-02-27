@@ -2,7 +2,7 @@
 A list of the web resources that I find helpful
 
 # Contents
-- [CSS/Designing](# CSS / Designing)
+- [CSS/Designing](#css-/-designing)
 
 
 # CSS / Designing

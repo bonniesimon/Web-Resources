@@ -1,11 +1,16 @@
 # Web-Resources
 A list of the web resources that I find helpful
 
-# Contents
-|                         |
-|-----------------------------------|
-| [CSS/Designing](#css-/-designing) |
-| [React](#react)                   |
+| Contents                                    |
+|---------------------------------------------|
+| [CSS/Designing](#css-/-designing)           |
+| [React](#react)                             |
+| [Other Curated Lists](#other-curated-lists) |
+| [Windows Terminal](#windows-terminal)       |
+| [Tools](#tools)                             |
+| [Performance](#performance)                 |
+| [Git](#git)                                 |
+| [Javascript](#javascript)                   |
 
 
 # CSS / Designing

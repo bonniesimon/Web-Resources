@@ -148,6 +148,7 @@ A list of the web resources that I find helpful
 # Javascript
 
 - [java5cript - Resoruce pool for js](https://www.java5cript.com/)
+- [serve js applications](https://www.npmjs.com/package/serve)
 
 ## Libraries
 

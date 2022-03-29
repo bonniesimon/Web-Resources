@@ -101,6 +101,7 @@ A list of the web resources that I find helpful
 ## Libraries
 - [React Alice Carousal](https://github.com/maxmarinich/react-alice-carousel)
 - [React Menu](https://react-popup.elazizi.com/react-menu)
+- [A sortable, virtual, customizable tree component for React - React Arborist](https://github.com/brimdata/react-arborist)
 
 ## UI Libraries
 - [Mantine](https://mantine.dev/)

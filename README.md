@@ -118,6 +118,7 @@ A list of the web resources that I find helpful
 - [Resources for developer designer engineer](https://dev.to/hasone/unlimited-resources-for-developer-designer-engineer-4b1n#online-design-tools)
 - [bookmark.design](https://www.bookmarks.design/)
 - [Expansive list of design resources](https://orchomenos.github.io/Design-resources/#0)
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
 
 # Windows Terminal

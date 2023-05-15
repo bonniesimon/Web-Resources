@@ -53,6 +53,7 @@ A list of the web resources that I find helpful
 - [colormind-AI generated colors](http://colormind.io/)
 - [GradientKing - (made by a mallu)](https://gradient-king.vercel.app/)
 - [color.cloudflare.design](https://color.cloudflare.design/)
+- [realtime colors](https://realtimecolors.com/)
 
 ## Animation
 - [Gradient animation js](https://sarcadass.github.io/granim.js/)

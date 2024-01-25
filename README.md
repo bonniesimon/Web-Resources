@@ -20,6 +20,8 @@ A list of the web resources that I find helpful
 - [Code snippets for css components and layouts](https://csslayout.io/)
 - [Css values](https://cssvalues.com)
 - [Design Checklist](https://www.checklist.design/)
+- [SVG viewer](https://www.svgviewer.dev/)
+
 
 
 ## Tailwind

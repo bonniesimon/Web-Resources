@@ -79,6 +79,7 @@ A list of the web resources that I find helpful
 - [Boxicons](https://boxicons.com/)
 - [css.gg - Get css, svg, png, etc for icons](https://css.gg/)
 - [Heroicons - copy as JSX or copy as SVG feature with tailwind styles](https://heroicons.dev/)
+- [Search engine for open source icons](https://iconbuddy.com/)
 
 ## Utilities
 - [Normalize.css - normalizes all elements](https://github.com/necolas/normalize.css/blob/master/normalize.css)

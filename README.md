@@ -67,6 +67,7 @@ A list of the web resources that I find helpful
 - [Loader Animations](https://tobiasahlin.com/spinkit/)
 - [Web Animations - Awesome bg animations](https://github.com/web-animations/web-animations-js)
 - [Full page Flicking animations](https://github.com/naver/egjs-flicking)
+- [Lottie Animations / Illustrations](https://lottiefiles.com/)
 
 ## Images
 - [Crop Images](https://croppola.com/)
